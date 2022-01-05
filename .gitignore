@@ -1,3 +1,10 @@
+# directory
+.DS_Store
+*.DS_Store
+
+# large .txt files
+*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
